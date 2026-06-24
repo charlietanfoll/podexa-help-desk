@@ -10,4 +10,14 @@
   "settings": {
     "sqltools.connections": []
   }
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "spacelaxy.spacelaxy-darkwaves",
+        "ms-vscode.makefile-tools"
+      ]
+    }
+  }
 }
